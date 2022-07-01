@@ -2,6 +2,10 @@
 
 A simple repo to store and make pdf files and links of my certifications easily linkable.
 
+## 2022
+
+- [Boolean Careers - Full Stack Web Developer](pdf/Boolean.pdf)
+
 ## 2021
 
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/matteotagliatti/responsive-web-design)
