@@ -2,6 +2,11 @@
 
 A simple repo to store and make pdf files and links of my certifications easily linkable.
 
+# 2023
+
+- [Udemy - React, The Complete Guide](pdf/Udemy%20-%20React.pdf)
+- [Udemy - NodeJS Tutorial and Projects Course](pdf/Udemy%20-%20Node.pdf)
+
 ## 2022
 
 - [Boolean Careers - Full Stack Web Developer](pdf/Boolean.pdf)
